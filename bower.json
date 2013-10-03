@@ -1,0 +1,7 @@
+{
+    "name": "d3-wells",
+    "version": "0.1",
+    "dependencies": {
+        "d3": "3.3.2"
+    }
+}
