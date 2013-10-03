@@ -1,4 +1,4 @@
-D3-OpenLayers
+d3-circles
 ==============
 
 Getting started with D3 for drawing circles based on simple data.
@@ -7,8 +7,6 @@ Prerequisites:
 --------------
 Have python and npm installed.
 
-
-The openlayers lib is already included in vendor.
 
 Steps:
 ------
